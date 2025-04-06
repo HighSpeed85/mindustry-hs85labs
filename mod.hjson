@@ -1,0 +1,13 @@
+name: hs85-labs
+displayName: "Mallpark Labs"
+author: HighSpeed85
+description:
+'''
+  Basically, random stuff. Made either because I wanted to, a friend suggested it, or some other reason.
+  At time of writing, not much content. Might have more some day.
+  Not really designed for proper gameplay.
+'''
+version: "1.0"
+minGameVersion: 146
+subtitle: "The Mallpark Experimental Department. Uhh..."
+hidden: false
