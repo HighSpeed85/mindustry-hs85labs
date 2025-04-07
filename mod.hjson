@@ -10,6 +10,6 @@ description:
 '''
 version: "2025.4.8"
 minGameVersion: 146
-subtitle: "the _Experimental_Department_"
+subtitle: "the Experimental Department"
 hidden: false
 repo: "HighSpeed85/mindustry-hs85labs"
