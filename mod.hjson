@@ -11,3 +11,4 @@ version: "1.0"
 minGameVersion: 146
 subtitle: "The Mallpark Experimental Department. Uhh..."
 hidden: false
+repo: "HighSpeed85/mindustry-hs85labs"
