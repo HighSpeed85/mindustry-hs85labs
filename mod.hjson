@@ -4,10 +4,11 @@ author: HighSpeed85
 description:
 '''
   Basically, random stuff. Made either because I wanted to, a friend suggested it, or some other reason.
-  At time of writing, not much content. Might have more some day.
-  Not really designed for proper gameplay.
+  At time of writing, has:
+  - 2 walls.
+  Not supposed to be designed for proper gameplay. I mean, if it works, it works.
 '''
-version: "1.0"
+version: "2025.4.8"
 minGameVersion: 146
 subtitle: "the _Experimental_Department_"
 hidden: false
