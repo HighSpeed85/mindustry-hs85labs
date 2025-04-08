@@ -5,10 +5,10 @@ description:
 '''
   Basically, random stuff. Made either because I wanted to, a friend suggested it, or some other reason.
   At time of writing, has:
-  - 3 walls
+  - 4 walls
   Not supposed to be designed for proper gameplay. I mean, if it works, it works.
 '''
-version: "2025.4.8"
+version: "2025.04.09"
 minGameVersion: 146
 subtitle: "the Experimental Department"
 hidden: false
