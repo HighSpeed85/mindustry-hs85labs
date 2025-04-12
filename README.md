@@ -1,12 +1,10 @@
 # Mallpark Labs
-A Mindustry mod. Random stuff made by me, because
-- I wanted to
-- Other people wanted me to
-- i think that's it  
+A Mindustry mod. Random stuff made by me, because either I wanted to or other people wanted me to.  
 
 Currently includes:
 - bigger copper and titanium walls (direct scrap reskins)
+- the Revolution (a minigun turret)
 
-Not really designed for proper gameplay. I think. I mean, you could make suggestions.  
-You can suggest your ideas [here](https://docs.google.com/document/d/1Bex6bGZH8Edi_bAxgYvtgrodqyh1-s17IsR06N01cDo/edit?usp=sharing). I'm not too familiar with Github, but possibly you could suggest through issues or pull requests as well?  
+Not well-balanced. I think. If you really wanted to, you could tell me what to change. I'd (probably) appreciate it.  
+You can suggest content ideas [here](https://docs.google.com/document/d/1Bex6bGZH8Edi_bAxgYvtgrodqyh1-s17IsR06N01cDo/edit?usp=sharing). You could probably suggest through pull requests, too...?  
 Thank you for your time.

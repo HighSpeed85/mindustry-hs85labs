@@ -5,12 +5,12 @@ description:
 '''
   Basically, random stuff. Made either because I wanted to, a friend suggested it, or some other reason.
   At time of writing, has:
-  - 4 walls
+  - 4 balanced
+  - an unbalanced minigun
   The Experimental Department is not great with balancing. Perhaps you can help them by suggesting on... wait, I don't know. AHHHH
   probably on the Github page tho
-  yes i know it's not on the repo, i have a turret i want to add just you wait
 '''
-version: "2025.04.09"
+version: "2025.04.12"
 minGameVersion: 146
 subtitle: "the Experimental Department - build first, balance later"
 hidden: false
