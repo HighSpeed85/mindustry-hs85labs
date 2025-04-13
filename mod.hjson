@@ -1,5 +1,5 @@
 name: hs85-labs
-displayName: "Mallpark Labs"
+displayName: "Mallpark Experimental Department"
 author: HighSpeed85
 description:
 '''
@@ -8,8 +8,8 @@ description:
   The Experimental Department is not great with balancing. Perhaps you can help them by suggesting on... wait, I don't know. AHHHH
   probably on the Github page tho
 '''
-version: "2025.04.12"
+version: "2025.04.13"
 minGameVersion: 146
-subtitle: "the Experimental Department - build first, balance later"
+subtitle: "build first, balance later"
 hidden: false
 repo: "HighSpeed85/mindustry-hs85labs"
