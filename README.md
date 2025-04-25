@@ -1,4 +1,4 @@
-# Mallpark Labs
+# Malldustry
 A Mindustry mod. Random stuff made by me, because either I wanted to or other people wanted me to.  
 
 Currently includes:
