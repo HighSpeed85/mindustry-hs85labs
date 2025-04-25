@@ -1,11 +1,11 @@
-name: hs85-labs
-displayName: "Mallpark Labs"
+name: mallpark
+displayName: "Malldustry"
 author: HighSpeed85
 description:
 '''
   Basically, random stuff. Made either because I wanted to, a friend suggested it, or some other reason.
   See Github for content.
-  The people at the Labs are not great with balancing. Perhaps you can help them by suggesting on... wait, I don't know. AHHHH
+  I'm not great with balancing. Perhaps you can help by suggesting on... wait, I don't know. AHHHH
   probably on the Github page tho
 '''
 version: "2025.04.13"
