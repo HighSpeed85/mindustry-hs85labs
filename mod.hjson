@@ -3,10 +3,9 @@ displayName: "Malldustry"
 author: HighSpeed85
 description:
 '''
-  Basically, random stuff. Made either because I wanted to, a friend suggested it, or some other reason.
-  See Github for content.
-  I'm not great with balancing. Perhaps you can help by suggesting on... wait, I don't know. AHHHH
-  probably on the Github page tho
+  The Mallpark Interplanetary Branch gives you... whatever this is! Made to test the market, or as requested by customers.
+  See Github for content. Or just download it and find out.
+  Balancing is not great. Perhaps you can help by suggesting on... wherever, I guess. Probably Github or the suggestions doc (see README).
 '''
 version: "2025.04.25"
 minGameVersion: 146
