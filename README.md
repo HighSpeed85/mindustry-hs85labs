@@ -1,5 +1,5 @@
 # Malldustry
-A Mindustry mod. Random stuff made by me, because either I wanted to or other people wanted me to.  
+The Mallpark Interplanetary Branch gives you... whatever this is. It's just random stuff made by me, because either I wanted to or other people wanted me to.  
 
 Currently includes:
 - bigger copper and titanium walls (direct scrap reskins)
