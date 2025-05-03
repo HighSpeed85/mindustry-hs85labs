@@ -7,7 +7,7 @@ description:
   See Github for content. Or just download it and find out.
   Balancing is not great. Perhaps you can help by suggesting on... wherever, I guess. Probably Github or the suggestions doc (see README).
 '''
-version: "2025.04.25"
+version: "2025.05.03"
 minGameVersion: 146
 subtitle: "build first, balance later"
 hidden: false
